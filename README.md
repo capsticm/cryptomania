@@ -1,4 +1,4 @@
 cryptomania
 ===========
 
-used for 2014 13kgame comp
+used for 2014 13kgame competition
